@@ -1,0 +1,8 @@
+print("\t\t\t\t\t\t\t\tUniversitas Budi Luhur")
+print("\t\t\t\t\tJL.Ciledug Raya Petukangan Utara Pesanggrahan Jakarta Selatan 12260")
+print("-"*160)
+print("Nama \t\t: Ferdi Hariansyah")
+print("NIM \t\t: 2312500610")
+print("Program Studi \t: Sistem Informasi")
+print("Fakultas \t: Teknologi Informasi")
+print("-"*160)
